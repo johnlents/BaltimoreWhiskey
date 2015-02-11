@@ -1,0 +1,16 @@
+img {
+	width:650px;
+	margin:0 auto;
+	padding: 50px 0 25px 0;
+}
+
+* {
+	background-color: #0B0C14;
+	color:#f1f0e2;
+	font-family: 'Lato', sans-serif;
+}
+button {
+	margin: 10px 5px;
+}
+
+

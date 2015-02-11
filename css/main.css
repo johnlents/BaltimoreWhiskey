@@ -1,0 +1,33 @@
+.splash {
+	width:650px;
+	margin:0 auto;
+	padding: 50px 0 25px 0;
+}
+
+* {
+	list-style: none;
+}
+button {
+	margin: 10px 5px;
+}
+
+.logo {
+	width:10px;
+	margin-right: 15px;
+}
+
+.navpad {
+	margin-top: 10px;
+}
+
+body {
+	background-image: url("../images/road.jpg");
+	background-color: #0B0C14;
+	color:#f1f0e2;
+	font-family: 'Lato', sans-serif;
+}
+.about_us_content {
+	display:inline-block;
+	margin:0;
+	color:#0B0C14;
+}
